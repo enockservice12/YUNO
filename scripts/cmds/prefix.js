@@ -45,7 +45,7 @@ module.exports = {
 			confirmThisThread: "Please react to this message to confirm change prefix in your box chat",
 			successGlobal: "Changed prefix of system bot to: %1",
 			successThisThread: "Changed prefix in your box chat to: %1",
-			myPrefix: "🌐 System prefix: %1\n🛸 Your box chat prefix: %2"
+			myPrefix: " ╔════ೋೋ═════╗ 🔴 𝗢𝘄𝗻𝗲𝗿: https://www.facebook.com/profile.php?id=100089690164634 ╚════ೋೋ═════╝ \n⚫𝗟'𝗼𝗯𝘀𝗰𝘂𝗿𝗶𝘁𝗲́ 𝗲𝘀𝘁 𝗺𝗼𝗻 𝗮𝗹𝗹𝗶𝗲́\n\n(◣_◢)𝗖𝗹𝗮𝗻 ☛ ᑌᑕᕼIᗯᗩ 𓀚  ᗷOT ᑭᖇᗴᖴI᙭ %2\n\n━━━━━━━❪❐❫━━━━━━━\n()==[:::::::::::::> 𝐓𝐚𝐩𝐞 : %2 𝐡𝐞𝐥𝐩 𝐩𝐨𝐮𝐫 𝐯𝐨𝐢𝐫 𝐥𝐞𝐬 𝐝𝐞𝐭𝐚𝐢𝐥𝐬 𝐝𝐞 𝐦𝐞𝐬 𝐩𝐨𝐮𝐫𝐯𝐨𝐢𝐫𝐬 𝄞 \n✧═════•❁❀❁•═════✧\n 🔴🔵"
 		}
 	},
 
